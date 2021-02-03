@@ -29,7 +29,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Bioinformatics (Medicine)
+  - course: PhD in Medicine (Bioinformatics)
     institution: The University of Adelaide
     year: 2015
   - course: Bachelor of Health Science (Hons)
