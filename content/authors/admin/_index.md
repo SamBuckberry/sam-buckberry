@@ -20,9 +20,8 @@ bio: My research interests include bioinformatics, epigenetics, genome biology, 
 # Interests to show in About widget
 interests:
 - Bioinformatics
-- Stem cell reprogramming
-- Epigenetics
-- DNA methylation
+- Genomics
+- Stem cell biology
 - R programming
 - Research computing
 
