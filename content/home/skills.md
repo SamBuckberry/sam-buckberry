@@ -28,10 +28,6 @@ feature:
   icon: cloud
   icon_pack: fas
   name: Cloud computing
-- description:
-  icon: camera-retro
-  icon_pack: fas
-  name: Amateur photography
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
