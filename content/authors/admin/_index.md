@@ -10,6 +10,8 @@ role: Postdoctoral Research Fellow in Genome Bioinformatics
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: Lister Lab
+  url: https://www.listerlab.org
 - name: The University of Western Australia
   url: https://www.uwa.edu.au/
 - name: Harry Perkins Institute of Medical Research
