@@ -23,7 +23,9 @@ bio: My research interests include bioinformatics, epigenetics, genome biology, 
 interests:
 - Bioinformatics
 - Genomics
+- DNA methylation
 - Stem cell biology
+- Epigenetic engineering
 - R programming
 - Research computing
 
