@@ -62,6 +62,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sambuckberry
+- icon: orchid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2388-6046
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
