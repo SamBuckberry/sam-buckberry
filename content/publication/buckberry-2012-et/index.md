@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2012-01-01'
-lastmod: 2021-02-05T11:54:29+08:00
+lastmod: 2021-02-05T12:31:06+08:00
 featured: false
 draft: false
 
@@ -31,9 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T03:54:29.332753Z'
+publishDate: '2021-02-05T04:31:05.977978Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*PloS one*'
+url_pdf: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0051210
 ---

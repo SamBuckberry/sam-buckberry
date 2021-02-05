@@ -17,7 +17,7 @@ authors:
 tags: []
 categories: []
 date: '2015-12-01'
-lastmod: 2021-02-05T11:54:25+08:00
+lastmod: 2021-02-05T12:31:04+08:00
 featured: false
 draft: false
 
@@ -35,9 +35,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T03:54:24.599087Z'
+publishDate: '2021-02-05T04:31:04.053770Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Genomics data*'
+url_pdf: http://dx.doi.org/10.1016/j.gdata.2015.08.022
+doi: 10.1016/j.gdata.2015.08.022
 ---

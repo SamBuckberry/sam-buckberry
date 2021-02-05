@@ -19,7 +19,7 @@ authors:
 tags: []
 categories: []
 date: '2014-01-01'
-lastmod: 2021-02-05T11:54:28+08:00
+lastmod: 2021-02-05T12:31:05+08:00
 featured: false
 draft: false
 
@@ -37,9 +37,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T03:54:27.666078Z'
+publishDate: '2021-02-05T04:31:05.305784Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Endocrine connections*'
+url_pdf: http://www.endocrineconnections.com/content/3/3/138.short
 ---

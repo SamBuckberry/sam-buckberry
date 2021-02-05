@@ -22,7 +22,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2021-02-05T11:54:18+08:00
+lastmod: 2021-02-05T12:31:01+08:00
 featured: false
 draft: false
 
@@ -40,9 +40,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T03:54:18.283172Z'
+publishDate: '2021-02-05T04:31:01.520334Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Nature Ecology & Evolution*'
+url_pdf: http://dx.doi.org/10.1038/s41559-019-0983-2
+doi: 10.1038/s41559-019-0983-2
 ---

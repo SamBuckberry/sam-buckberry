@@ -23,7 +23,7 @@ authors:
 tags: []
 categories: []
 date: '2018-04-01'
-lastmod: 2021-02-05T11:54:21+08:00
+lastmod: 2021-02-05T12:31:02+08:00
 featured: false
 draft: false
 
@@ -41,9 +41,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T03:54:21.146963Z'
+publishDate: '2021-02-05T04:31:02.487075Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Nature communications*'
+url_pdf: https://doi.org/10.1038/s41467-018-03724-9
+doi: 10.1038/s41467-018-03724-9
 ---

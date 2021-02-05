@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2021-02-05T11:54:31+08:00
+lastmod: 2021-02-05T12:31:06+08:00
 featured: false
 draft: false
 
@@ -34,9 +34,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T03:54:30.424485Z'
+publishDate: '2021-02-05T04:31:06.464569Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*BMC genomics*'
+url_pdf: http://dx.doi.org/10.1186/s12864-016-3384-9
+doi: 10.1186/s12864-016-3384-9
 ---

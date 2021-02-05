@@ -28,7 +28,7 @@ authors:
 tags: []
 categories: []
 date: '2016-12-01'
-lastmod: 2021-02-05T11:54:19+08:00
+lastmod: 2021-02-05T12:31:02+08:00
 featured: false
 draft: false
 
@@ -46,9 +46,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T03:54:18.925699Z'
+publishDate: '2021-02-05T04:31:01.801093Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Placenta*'
+url_pdf: http://dx.doi.org/10.1016/j.placenta.2015.11.014
+doi: 10.1016/j.placenta.2015.11.014
 ---

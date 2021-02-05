@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2012-06-01'
-lastmod: 2021-02-05T11:54:29+08:00
+lastmod: 2021-02-05T12:31:05+08:00
 featured: false
 draft: false
 
@@ -29,9 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T03:54:28.770271Z'
+publishDate: '2021-02-05T04:31:05.754927Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Evolution: Education and Outreach*'
+url_pdf: https://link.springer.com/article/10.1007/s12052-012-0416-z
+doi: 10.1007/s12052-012-0416-z
 ---

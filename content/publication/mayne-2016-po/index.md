@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2016-10-01'
-lastmod: 2021-02-05T11:54:27+08:00
+lastmod: 2021-02-05T12:31:05+08:00
 featured: false
 draft: false
 
@@ -34,9 +34,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T03:54:26.512751Z'
+publishDate: '2021-02-05T04:31:04.834106Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Frontiers in genetics*'
+url_pdf: http://dx.doi.org/10.3389/fgene.2016.00183
+doi: 10.3389/fgene.2016.00183
 ---
