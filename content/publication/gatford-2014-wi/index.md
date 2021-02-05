@@ -6,20 +6,19 @@ title: Circulating IGF1 and IGF2 and SNP genotypes in men and pregnant and non-p
 subtitle: ''
 summary: ''
 authors:
-- Kathryn L Gatford
-- Gary K Heinemann
-- Steven D Thompson
-- Jamie V Zhang
-- Sam Buckberry
+- K L Gatford
+- G K Heinemann
+- S D Thompson
+- J V Zhang
+- S Buckberry
 - J A Owens
-- Gustaaf A Dekker
-- Claire T Roberts
-- Scope Consortium
-- ' Others'
+- G A Dekker
+- C T Roberts
+- SCOPE Consortium
 tags: []
 categories: []
-date: '2014-01-01'
-lastmod: 2021-02-05T12:31:05+08:00
+date: '2014-09-01'
+lastmod: 2021-02-05T13:07:27+08:00
 featured: false
 draft: false
 
@@ -37,10 +36,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T04:31:05.305784Z'
+publishDate: '2021-02-05T05:07:27.166083Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Endocrine connections*'
-url_pdf: http://www.endocrineconnections.com/content/3/3/138.short
+url_pdf: http://dx.doi.org/10.1530/EC-14-0068
+doi: 10.1530/EC-14-0068
 ---

@@ -9,7 +9,7 @@ authors:
 - Amandine Bonnet
 - Dulce B Vargas-Landin
 - Nanjing Ji
-- Fei Hong
+- Hongfei Li
 - Feng Yang
 - Ling Li
 - Koichi Hori
@@ -23,7 +23,7 @@ authors:
 tags: []
 categories: []
 date: '2018-04-01'
-lastmod: 2021-02-05T12:31:02+08:00
+lastmod: 2021-02-05T13:07:25+08:00
 featured: false
 draft: false
 
@@ -41,11 +41,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T04:31:02.487075Z'
+publishDate: '2021-02-05T05:07:24.792662Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Nature communications*'
-url_pdf: https://doi.org/10.1038/s41467-018-03724-9
+url_pdf: http://dx.doi.org/10.1038/s41467-018-03724-9
 doi: 10.1038/s41467-018-03724-9
 ---

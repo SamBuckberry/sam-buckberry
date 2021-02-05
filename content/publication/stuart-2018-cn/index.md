@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2021-02-05T12:31:02+08:00
+lastmod: 2021-02-05T13:07:25+08:00
 featured: false
 draft: false
 
@@ -30,11 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T04:31:02.727666Z'
+publishDate: '2021-02-05T05:07:25.036333Z'
 publication_types:
 - '6'
 abstract: ''
-publication: '*Methods in Molecular Biology*'
-url_pdf: http://dx.doi.org/10.1007/978-1-4939-7774-1_17
+publication: '*Epigenome Editing: Methods and Protocols*'
+url_pdf: https://doi.org/10.1007/978-1-4939-7774-1_17
 doi: 10.1007/978-1-4939-7774-1_17
 ---

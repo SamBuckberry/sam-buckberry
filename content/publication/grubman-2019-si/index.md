@@ -23,8 +23,8 @@ authors:
 - Jose M Polo
 tags: []
 categories: []
-date: '2019-01-01'
-lastmod: 2021-02-05T12:31:01+08:00
+date: '2019-12-01'
+lastmod: 2021-02-05T13:07:23+08:00
 featured: false
 draft: false
 
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T04:31:01.273163Z'
+publishDate: '2021-02-05T05:07:23.577729Z'
 publication_types:
 - '2'
 abstract: ''

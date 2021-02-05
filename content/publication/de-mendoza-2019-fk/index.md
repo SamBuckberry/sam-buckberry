@@ -6,7 +6,6 @@ subtitle: ''
 summary: ''
 authors:
 - Alex de Mendoza
-- Alex de Mendoza
 - William L Hatleberg
 - Kevin Pang
 - Sven Leininger
@@ -21,8 +20,8 @@ authors:
 - Ryan Lister
 tags: []
 categories: []
-date: '2019-01-01'
-lastmod: 2021-02-05T12:31:01+08:00
+date: '2019-10-01'
+lastmod: 2021-02-05T13:07:24+08:00
 featured: false
 draft: false
 
@@ -40,11 +39,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T04:31:01.520334Z'
+publishDate: '2021-02-05T05:07:23.810231Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Nature Ecology & Evolution*'
+publication: '*Nature ecology & evolution*'
 url_pdf: http://dx.doi.org/10.1038/s41559-019-0983-2
 doi: 10.1038/s41559-019-0983-2
 ---

@@ -12,8 +12,8 @@ authors:
 - Claire T Roberts
 tags: []
 categories: []
-date: '2012-01-01'
-lastmod: 2021-02-05T12:31:06+08:00
+date: '2012-12-01'
+lastmod: 2021-02-05T13:07:28+08:00
 featured: false
 draft: false
 
@@ -31,10 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T04:31:05.977978Z'
+publishDate: '2021-02-05T05:07:27.901635Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*PloS one*'
-url_pdf: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0051210
+url_pdf: http://dx.doi.org/10.1371/journal.pone.0051210
+doi: 10.1371/journal.pone.0051210
 ---

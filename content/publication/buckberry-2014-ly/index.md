@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Integrative transcriptome meta-analysis reveals widespread sex-biased gene
-  expression at the human fetal--maternal interface
+  expression at the human fetal-maternal interface
 subtitle: ''
 summary: ''
 authors:
@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2014-08-01'
-lastmod: 2021-02-05T12:31:05+08:00
+lastmod: 2021-02-05T13:07:27+08:00
 featured: false
 draft: false
 
@@ -32,11 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T04:31:05.527804Z'
+publishDate: '2021-02-05T05:07:27.408607Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Molecular human reproduction*'
-url_pdf: https://academic.oup.com/molehr/article-abstract/20/8/810/2459830
+url_pdf: http://dx.doi.org/10.1093/molehr/gau035
 doi: 10.1093/molehr/gau035
 ---
