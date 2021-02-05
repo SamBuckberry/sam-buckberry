@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Anja S Knaupp
-- **Sam Buckberry**
+- Sam Buckberry
 - Jahnvi Pflueger
 - Sue Mei Lim
 - Ethan Ford
