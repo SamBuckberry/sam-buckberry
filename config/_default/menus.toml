@@ -30,7 +30,7 @@
 
 [[main]]
   name = "CV"
-  url = "#cv"
+  url = "content/home/cv.md"
   weight = 60
 
 [[main]]
