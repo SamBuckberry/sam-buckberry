@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Anja S Knaupp
-- Sam Buckberry
+- **Sam Buckberry**
 - Jahnvi Pflueger
 - Sue Mei Lim
 - Ethan Ford
@@ -26,7 +26,7 @@ tags: []
 categories: []
 date: '2017-12-01'
 lastmod: 2021-02-05T13:07:25+08:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -47,7 +47,7 @@ publishDate: '2021-02-05T05:07:25.271028Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Cell stem cell*'
+publication: '*Cell Stem Cell*'
 url_pdf: http://dx.doi.org/10.1016/j.stem.2017.11.007
 doi: 10.1016/j.stem.2017.11.007
 ---
