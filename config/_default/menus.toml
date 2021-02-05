@@ -29,11 +29,6 @@
   weight = 50
 
 [[main]]
-  name = "CV"
-  url = "content/home/cv.md"
-  weight = 60
-
-[[main]]
   name = "Contact"
   url = "#contact"
   weight = 70
