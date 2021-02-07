@@ -37,9 +37,7 @@ The University of Western Australia
 
 **Doctor of Philosophy (Medicine)**  
 The University of Adelaide (2012-2015)  
-*Thesis: An integrative analysis of the human placental transcriptome*  
-*Accepted without change July 2015*  
-*Awarded the Dean’s commendation for doctoral thesis excellence*
+*Thesis: An integrative analysis of the human placental transcriptome*. Accepted without change July 2015 and awarded the Dean’s commendation for doctoral thesis excellence
 
 **Bachelor of Health Science (First Class Honours)**  
 The University of Adelaide (2011)  
@@ -75,7 +73,7 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 * [WA Department of Health Merit Award (2020)](https://ww2.health.wa.gov.au/Articles/F_I/FutureHealth-WA/Merit-Awards/Merit-Awards-2019-20-recipients#phsocialmediacontent_0_linkedin:~:text=Merit%20Awards%20%E2%80%93%202019%2D2020%20recipients,-In)
 * [People's Choice Award - Epigenetics Consortium of South Australia annual research meeting (2019)](https://epicsa.org.au/news/#post-177:~:text=presentations%3A-,AGRF%20People%E2%80%99s%20Choice%20Award)
 * Ana Africh Stem Cell Research Travel Scholarship (2019)
-* [Raine Research Prize (2019) - Raine Medical Research Foundation](http://rainefoundation.org.au/funding/raine-research-prize/raine-research-prize-previous-recipients/)
+* [Raine Research Prize (2019) - Raine Medical Research Foundation](https://www.rainefoundation.org.au/research/past-recipients/#toggle-id-68)
 * [Best Oral Presentation by Early Career Researcher at Australasian Genomic Technologies Association conference (2016)](https://www.agtagenomics.org.au/conferences/past-conference-prizes/)
 * [NHMRC-ARC Dementia Research Development Grant Fellowship (2016-2019)](https://www.nhmrc.gov.au/research-policy/research-priorities/dementia/boosting-dementia-research-initiative/nhmrc-arc-dementia-fellowships#download:~:text=ARC%20Dementia%20research%20development%20fellowships%20outcomes)
 * NHMRC Peter Doherty Biomedical Early Career Fellowship (2016-2019) *relinquished*
@@ -110,20 +108,20 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 
 ***
 
-* Executive committee member  - [Australasian Genomic Technologies Association (AGTA)](http://www.agtagenomics.org.au/)
+* Executive committee member  - [Australasian Genomic Technologies Association (AGTA)](https://agtagenomics.org.au/about/#content:~:text=Dr%20Sam%20Buckberry)
 * International Society for Stem Cell Research [(ISSCR)](https://www.isscr.org/)
 
 ***
 
-## Teaching
+## Teaching and student supervision
 
 ***
 
-Lecturer for the Masters level topic *The Objectives and Applications of Genomics 2017* (SCIE4001). School of Chemistry and Biochemistry, The University of Western Australia.
+I currently supervise two PhD students and one masters of biotechnology student, and supervised one honour student to completion in 2019 who was awarded first class honours.  
 
-Teaching Assistant for RNA-Seq analysis workshops at BioInfoSummer Conference 2013, Australian Mathematical Sciences Institute and the University of Adelaide.
+I lecture in the masters level topic [*Collecting, Analysing and Interpreting Big Data in Biology* (SCIE4001)](https://handbooks.uwa.edu.au/unitdetails?code=SCIE4001) at The University of Western Australia.
 
-Teaching Assistant for the Bioinformatics Workshops 2013, the University of Adelaide.
+In the past, I have assisted teaching bioinformatics workshops, including [BioInfoSummer](https://bis.amsi.org.au/).
 
 ***
 
