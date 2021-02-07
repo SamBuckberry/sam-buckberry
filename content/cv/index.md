@@ -3,7 +3,7 @@ title: Curriculum vitae
 subtitle:
 
 # Summary for listings and search engines
-summary: Sam Buckberry Curriculum Vitae.
+summary: Sam Buckberry Curriculum Vitae
 
 widget: pages
 
@@ -37,9 +37,9 @@ The University of Western Australia
 
 **Doctor of Philosophy (Medicine)**  
 The University of Adelaide (2012-2015)  
-*Thesis: An integrative analysis of the human placental transcriptome.*  
-*Submitted April 2015 and accepted without change July 2015.*  
-*Awarded the Dean’s commendation for doctoral thesis excellence.*
+*Thesis: An integrative analysis of the human placental transcriptome*  
+*Accepted without change July 2015*  
+*Awarded the Dean’s commendation for doctoral thesis excellence*
 
 **Bachelor of Health Science (First Class Honours)**  
 The University of Adelaide (2011)  
@@ -84,7 +84,7 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 * Promega PhD Student Award, Lorne Genome Conference (2014)
 * Healthy Development Adelaide & Channel 7 Children’s Research Foundation PhD Scholarship (2012-2015)
 * The Robinson Research Institute Petrucco Honours Scholarship (2011)
-* AR Riddle Honours Grant, The University of Adelaide (2011)
+* A.R Riddle Honours Grant, The University of Adelaide (2011)
 * Flinders University Chancellors Commendation (2010 & 2011)
 * Flinders University Summer Research Scholarship (2010)
 
@@ -110,8 +110,8 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 
 ***
 
-* Executive committee member  - [Australian Genomic Technologies Association (AGTA)](http://www.agtagenomics.org.au/)
-* International Society for Stem Cell Reserach (ISSCR) - Trainee member
+* Executive committee member  - [Australasian Genomic Technologies Association (AGTA)](http://www.agtagenomics.org.au/)
+* International Society for Stem Cell Research [(ISSCR)](https://www.isscr.org/)
 
 ***
 
