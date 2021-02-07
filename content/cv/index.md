@@ -72,7 +72,7 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 
 ***
 * Finalist - Woodside Early Career Scientist of the Year - [WA Premiers Science Awards (2020)](https://www.wa.gov.au/organisation/department-of-jobs-tourism-science-and-innovation/premiers-science-awards#2020-premiers-science-award-winners:~:text=Dr%20Sam%20Buckberry,Fellow%20(The%20University%20of%20Western%20Australia))
-* [WA Department of Health Merit Award (2020)][https://ww2.health.wa.gov.au/Articles/F_I/FutureHealth-WA/Merit-Awards/Merit-Awards-2019-20-recipients#phsocialmediacontent_0_linkedin:~:text=Merit%20Awards%20%E2%80%93%202019%2D2020%20recipients,-In]
+* [WA Department of Health Merit Award (2020)](https://ww2.health.wa.gov.au/Articles/F_I/FutureHealth-WA/Merit-Awards/Merit-Awards-2019-20-recipients#phsocialmediacontent_0_linkedin:~:text=Merit%20Awards%20%E2%80%93%202019%2D2020%20recipients,-In)
 * [People's Choice Award - Epigenetics Consortium of South Australia annual research meeting (2019)](https://epicsa.org.au/news/#post-177:~:text=AGRF%20People%E2%80%99s%20Choice%20Award%20(voted%20by,cells%20to%20induced%20pluripotent%20stem%20cells%E2%80%9D)
 * Ana Africh Stem Cell Research Travel Scholarship (2019)
 * [Raine Research Prize (2019) - Raine Medical Research Foundation](http://rainefoundation.org.au/funding/raine-research-prize/raine-research-prize-previous-recipients/)
