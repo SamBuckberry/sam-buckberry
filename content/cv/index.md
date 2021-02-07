@@ -10,11 +10,11 @@ widget: pages
 # Activate this page true/false
 active: false
 ---
-
+[](assets/images/profile-square-bw-small.jpeg)
 Sam Buckberry, PhD   
 The University of Western Australia  
-Harry Perkins Institute of Medical Research
-6 Verdun Street
+Harry Perkins Institute of Medical Research  
+6 Verdun Street  
 Nedlands, WA 6009  
 Australia
 
