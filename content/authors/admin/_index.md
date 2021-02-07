@@ -23,11 +23,11 @@ bio: My research interests include bioinformatics, epigenetics, genome biology, 
 interests:
 - Bioinformatics
 - Genomics
+- R programming
+- Data visualisation
 - DNA methylation
 - Stem cell biology
 - Epigenetic engineering
-- R programming
-- Research computing
 
 # Education to show in About widget
 education:
