@@ -10,13 +10,18 @@ widget: pages
 # Activate this page true/false
 active: false
 ---
-[](assets/images/profile-square-bw-small.jpeg)
+
+[](assets/images/icon.png)
 Sam Buckberry, PhD   
 The University of Western Australia  
 Harry Perkins Institute of Medical Research  
 6 Verdun Street  
 Nedlands, WA 6009  
 Australia
+
+<img src="assets/images/icon.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 ***
 
