@@ -11,8 +11,6 @@ widget: pages
 active: false
 ---
 
-{{< figure src="icon.png" style="float: left; margin-right: 10px;" >}}
-
 Sam Buckberry, PhD   
 The University of Western Australia  
 Harry Perkins Institute of Medical Research  
