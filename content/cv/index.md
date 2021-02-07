@@ -135,7 +135,7 @@ Overcoming the epigenetic barriers to cellular reprogramming. *South Australia H
 
 Profiling the shifting epigenetic landscape during human reprogramming. **People's Choice Award**, *Epigenetics Consortium of South Australia Annual Research Meeting 2019. Adelaide Australia.* **Invited presentation**.
 
-[Using big data to understand the human brain - *Pint of Science Festival 2018*](https://pintofscience.com.au/event/calculating-life-the-universe-and-everything) 
+[Using big data to understand the human brain - *Pint of Science Festival 2018*](https://pintofscience.com.au/event/calculating-life-the-universe-and-everything)
 
 Characterising epigenome dynamics during the reprogramming of somatic cells to iPS cells. *Lorne Genome Conference 2017. Lorne, Australia.*
 
@@ -163,3 +163,11 @@ Quantitative allele-specific expression analysis reveals imprinting plasticity o
 *Society for Reproductive Biology Conference 2012. Gold Coast, Australia.*
 
 Allele-specific expression of H19 and IGF2 in the human placenta across gestation. **Honours award session**, *Australian Society for Medical Research Annual Meeting 2012. Adelaide, Australia*.
+
+***
+
+## Publications
+
+***
+
+[Click here](https://www.sambuckberry.me/publication/) for a full list of publications, or visit [Sam Buckberry's Google scholar profile](https://scholar.google.com/citations?user=b--b_fUAAAAJ&hl=en) for publication and citation metrics.
