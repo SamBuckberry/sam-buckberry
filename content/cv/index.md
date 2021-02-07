@@ -55,11 +55,11 @@ Extended Major in Biological Sciences
 ## Research funding
 
 ***
-WA Department of Health Merit Award (2020):
+WA Department of Health Merit Award (2020): Repair of abnormal genomic imprinting in human induced pluripotent stem cells through naive reprogramming and targeted epigenome engineering. **BUCKBERRY S (CIA) $95,000**
 
 NHMRC-ARC Dementia Research Development Fellowship Grant (2016-2019): The Role of the neuronal methylome in natural brain ageing and the progression of Alzheimer’s Disease (APP1111206). **BUCKBERRY S (CIA) $584,644**
 
-NHMRC Peter Doherty Biomedical Early Career Fellowship Award (2016-2019): The role of atypical DNA methylation in neuronal genome regulation and neurodevelopmental disorders (APP1110063). **BUCKBERRY S (CIA) $314,644.** *This research fellowship was relinquished to accept the grant above.*
+NHMRC Peter Doherty Biomedical Early Career Fellowship Award (2016-2019): The role of atypical DNA methylation in neuronal genome regulation and neurodevelopmental disorders (APP1110063). **BUCKBERRY S (CIA) $314,644** *This research fellowship was relinquished to accept the grant above.*
 
 Robinson Research Institute Seed Funding (2015-2016): A multi-faceted approach to understanding the consequences of diabetes in early pregnancy.  BROWN HM, NOTTLE M, GATFORD K, DUNNING K, BREEN J & **BUCKBERRY S**. **$25,000**
 
@@ -71,25 +71,22 @@ BROWN HM, BENT SJ, **BUCKBERRY S**, THOMPSON JG. **$25,000**
 ## Awards, scholarships & fellowships
 
 ***
-* Finalist - Western Australia Early Career Scientist of the Year (2020) [link]()
-* People's Choice Award - Epigenetics Consortium of South Australia annual research meeting (2019)
+* Finalist - Woodside Early Career Scientist of the Year - [WA Premiers Science Awards (2020)](https://www.wa.gov.au/organisation/department-of-jobs-tourism-science-and-innovation/premiers-science-awards#2020-premiers-science-award-winners:~:text=Dr%20Sam%20Buckberry,Fellow%20(The%20University%20of%20Western%20Australia))
+* [WA Department of Health Merit Award (2020)][https://ww2.health.wa.gov.au/Articles/F_I/FutureHealth-WA/Merit-Awards/Merit-Awards-2019-20-recipients#phsocialmediacontent_0_linkedin:~:text=Merit%20Awards%20%E2%80%93%202019%2D2020%20recipients,-In]
+* [People's Choice Award - Epigenetics Consortium of South Australia annual research meeting (2019)](https://epicsa.org.au/news/#post-177:~:text=AGRF%20People%E2%80%99s%20Choice%20Award%20(voted%20by,cells%20to%20induced%20pluripotent%20stem%20cells%E2%80%9D)
 * Ana Africh Stem Cell Research Travel Scholarship (2019)
-* Raine Research Prize (2019) - Raine Medical Research Foundation [link](http://rainefoundation.org.au/funding/raine-research-prize/raine-research-prize-previous-recipients/)
-* Best Oral Presentation by Early Career Researcher at Australasian Genomic Technologies Association (AGTA) conference (2016) [link](https://www.agtagenomics.org.au/conferences/past-conference-prizes/)
-* NHMRC-ARC Dementia Research Fellowship (2016-2019)
+* [Raine Research Prize (2019) - Raine Medical Research Foundation](http://rainefoundation.org.au/funding/raine-research-prize/raine-research-prize-previous-recipients/)
+* [Best Oral Presentation by Early Career Researcher at Australasian Genomic Technologies Association conference (2016)](https://www.agtagenomics.org.au/conferences/past-conference-prizes/)
+* [NHMRC-ARC Dementia Research Development Grant Fellowship (2016-2019)](https://www.nhmrc.gov.au/research-policy/research-priorities/dementia/boosting-dementia-research-initiative/nhmrc-arc-dementia-fellowships#download:~:text=ARC%20Dementia%20research%20development%20fellowships%20outcomes)
 * NHMRC Peter Doherty Biomedical Early Career Fellowship (2016-2019) *relinquished*
 * Y.W Loke Young Investigator Award, IFPA Conference (2015)
 * Dean’s Commendation for Doctoral Thesis Excellence (2015)
-* Promega PhD Student Award, Lorne Genome Conference (2014) [link](http://www.lornegenome.org/awards/past-award-winners/)
-* ANZPRA New Investigator Award Finalist (2013)
+* Promega PhD Student Award, Lorne Genome Conference (2014)
 * Healthy Development Adelaide & Channel 7 Children’s Research Foundation PhD Scholarship (2012-2015)
-* ANZPRA New Investigator Award Finalist (2012)
 * The Robinson Research Institute Petrucco Honours Scholarship (2011)
 * AR Riddle Honours Grant, The University of Adelaide (2011)
-* Flinders University Chancellors Commendation (2011)
-* Flinders University Chancellors commendation (2010)
+* Flinders University Chancellors Commendation (2010 & 2011)
 * Flinders University Summer Research Scholarship (2010)
-* Commonwealth of Australia Education Scholarship (2008-2010)
 
 ***
 
