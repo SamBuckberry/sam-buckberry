@@ -11,7 +11,7 @@ widget: pages
 active: false
 ---
 
-**Sam Buckberry, PhD**
+**Sam Buckberry, PhD**  
 [The University of Western Australia](https://research-repository.uwa.edu.au/en/persons/sam-buckberry)  
 [Harry Perkins Institute of Medical Research](https://perkins.org.au/)  
 6 Verdun Street  
@@ -37,7 +37,7 @@ The University of Western Australia
 
 **Doctor of Philosophy (Medicine)**  
 The University of Adelaide (2012-2015)  
-*Thesis: An integrative analysis of the human placental transcriptome*. Accepted without change July 2015 and awarded the Dean’s commendation for doctoral thesis excellence
+[*Thesis: An integrative analysis of the human placental transcriptome*](https://librarysearch.adelaide.edu.au/permalink/61ADELAIDE_INST/rinku3/alma9927942964801811). Accepted without change July 2015 and awarded the Dean’s commendation for doctoral thesis excellence
 
 **Bachelor of Health Science (First Class Honours)**  
 The University of Adelaide (2011)  
@@ -134,6 +134,8 @@ In the past, I have assisted teaching bioinformatics workshops, including [BioIn
 Overcoming the epigenetic barriers to cellular reprogramming. *South Australia Health and Medical Research Institute 2019. Adelaide, Australia.* **Invited presentation**.  
 
 Profiling the shifting epigenetic landscape during human reprogramming. **People's Choice Award**, *Epigenetics Consortium of South Australia Annual Research Meeting 2019. Adelaide Australia.* **Invited presentation**.
+
+[Using big data to understand the human brain - *Pint of Science Festival 2018*](https://pintofscience.com.au/event/calculating-life-the-universe-and-everything) 
 
 Characterising epigenome dynamics during the reprogramming of somatic cells to iPS cells. *Lorne Genome Conference 2017. Lorne, Australia.*
 
