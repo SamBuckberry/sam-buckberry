@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "The University of Western Australia"
+org_name = "Sam Buckberry"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Sam Buckberry"
 
 ############################
 ## Site Features
@@ -157,7 +157,7 @@ section_pager = false
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
