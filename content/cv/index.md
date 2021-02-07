@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Curriculum vitae
+subtitle:
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Sam Buckberry Curriculum Vitae.
 
 widget: pages
 
@@ -13,9 +13,9 @@ active: false
 
 Sam Buckberry, PhD   
 The University of Western Australia  
-Faculty of Science   
-M316, 35 Stirling Highway  
-Crawley, WA 6009  
+Harry Perkins Institute of Medical Research
+6 Verdun Street
+Nedlands, WA 6009  
 Australia
 
 ***
@@ -24,7 +24,7 @@ Australia
 
 ***
 
-**NHMRC-ARC Dementia Research Fellow**  
+**Postdoctoral Research Fellow**  
 [Lister Lab](http://listerlab.org) (epigenetics and genomics)  
 Harry Perkins Institute of Medical Research  
 The University of Western Australia  
@@ -55,7 +55,7 @@ Extended Major in Biological Sciences
 ## Research funding
 
 ***
-WA Department of Health Merit Award (2020): 
+WA Department of Health Merit Award (2020):
 
 NHMRC-ARC Dementia Research Development Fellowship Grant (2016-2019): The Role of the neuronal methylome in natural brain ageing and the progression of Alzheimer’s Disease (APP1111206). **BUCKBERRY S (CIA) $584,644**
 
