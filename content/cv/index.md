@@ -170,4 +170,4 @@ Allele-specific expression of H19 and IGF2 in the human placenta across gestatio
 
 ***
 
-[Click here](https://www.sambuckberry.me/publication/) for a full list of publications, or visit [Sam Buckberry's Google scholar profile](https://scholar.google.com/citations?user=b--b_fUAAAAJ&hl=en) for publication and citation metrics.
+[Click here  for a full list of publications]({{< ref "publicaion/index.md" >}}), or visit [Sam Buckberry's Google scholar profile](https://scholar.google.com/citations?user=b--b_fUAAAAJ&hl=en) for publication and citation metrics.
