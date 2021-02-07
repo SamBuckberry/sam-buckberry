@@ -11,9 +11,9 @@ widget: pages
 active: false
 ---
 
-Sam Buckberry, PhD   
-The University of Western Australia  
-Harry Perkins Institute of Medical Research  
+**Sam Buckberry, PhD**
+[The University of Western Australia](https://research-repository.uwa.edu.au/en/persons/sam-buckberry)  
+[Harry Perkins Institute of Medical Research](https://perkins.org.au/)  
 6 Verdun Street  
 Nedlands, WA 6009  
 Australia
