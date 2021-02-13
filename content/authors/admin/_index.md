@@ -17,7 +17,7 @@ organizations:
 - name: Harry Perkins Institute of Medical Research
   url: https://www.perkins.org.au/
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include bioinformatics, epigenetics, genome biology, R programming, and research computing.
+bio: Sam Buckberry's research interests include bioinformatics, epigenetics, R programming, data visualisation, stem cell reprogramming and early human development.
 
 # Interests to show in About widget
 interests:
@@ -26,8 +26,8 @@ interests:
 - R programming
 - Data visualisation
 - DNA methylation
-- Stem cell biology
-- Epigenetic engineering
+- Stem cell reprogramming
+- Early human development
 
 # Education to show in About widget
 education:
