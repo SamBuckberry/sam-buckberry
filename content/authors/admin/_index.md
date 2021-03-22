@@ -77,4 +77,8 @@ email: "sam.buckberry@uwa.edu.au"
 highlight_name: true
 ---
 
-Sam Buckberry is a molecular and computational biologist in the Lister Lab. Sam utilises an integrative approach to data analysis to study the principles and mechanisms of epigenetic gene regulation through combining cutting-edge methods in molecular biology, genomics, and bioinformatics.
+Dr Sam Buckberry is a molecular and computational biologist in the Lister Lab. Sam uses an integrative approach to study the principles and mechanisms of epigenetic gene regulation. He achieves this through combining cutting-edge methods in molecular biology, genomics, and bioinformatics.
+
+Sam has broad experience in nucleic acid biology and genome-wide sequence data analysis.  This includes DNA methylation (WGBS), ATAC-seq, RNA-seq, ChIP-seq, and single-cell transcriptomics and epigenomics. He is a fluent programmer in the R language, and has a broad skill set in bioinformatics, research computing and data science.
+
+Sam enjoys developing custom analysis frameworks for complex biological questions and data types.
