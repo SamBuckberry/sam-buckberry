@@ -34,4 +34,3 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-[Click here  for a full list of publications]({{< ref "publication/" >}}), or visit [Sam Buckberry's Google scholar profile](https://scholar.google.com/citations?user=b--b_fUAAAAJ&hl=en) for publication and citation metrics.
