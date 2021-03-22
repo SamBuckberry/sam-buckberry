@@ -1,6 +1,6 @@
 ---
 widget: accomplishments
-active: true
+active: false
 date_format: Jan 2006
 widget_id: pub list
 headless: true
