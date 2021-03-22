@@ -79,4 +79,4 @@ highlight_name: true
 
 Dr Sam Buckberry is a molecular and computational biologist. Sam uses an integrative approach to study the principles and mechanisms of epigenetic gene regulation. He achieves this through combining cutting-edge methods in molecular biology, genomics, and bioinformatics.
 
-Sam has a broad knowledge in nucleic acid biology, bioinformatics, research computing and data science. He enjoys developing custom analysis frameworks for complex biological questions and data types. 
+Sam has broad experience in genome biology, bioinformatics, research computing and data science. He enjoys developing custom analysis frameworks for complex biological questions and data types. 
